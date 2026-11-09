@@ -1,7 +1,7 @@
 <details open>
 <summary><b>🇪🇸 Español (Haz clic para contraer/desplegar)</b></summary>
 
-### Hola, soy Esteban Hacin 👋 
+### Hola, soy Esteban Hacin Hahne 👋 
 💻 **Analista Programador & Desarrollador Full-Stack / Especialista IT**  
 📍 Basado en La Serena / Coquimbo, Chile.
 
@@ -48,7 +48,7 @@ Titulado de Analista Programador por INACAP La Serena. Cuento con experiencia pr
 <details>
 <summary><b>🇬🇧 English (Click to expand/collapse)</b></summary>
 
-### Hi, I'm Esteban Hacin 👋 
+### Hi, I'm Esteban Hacin Hahne👋 
 💻 **Software Analyst & Full-Stack Developer / IT Specialist**  
 📍 Based in La Serena / Coquimbo, Chile.
 
